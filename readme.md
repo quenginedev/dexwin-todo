@@ -34,14 +34,14 @@ dexwin-todo/
    npm install
    ```
 
-2. Start the server:
+2. Start both app and server:
 
    ```bash
    npm run dev
    ```
 
-The application will be available at `http://localhost:5173`
-The server will run on `http://localhost:5001`
+- The application will be available at `http://localhost:5173`
+- The server will run on `http://localhost:5001`
 
 ## API Endpoints
 
